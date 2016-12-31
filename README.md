@@ -1,5 +1,5 @@
 # VGA Blinken with Onboard Connector
-Modified version of the VGA Blinken PBC by Danjovic:<br>
+Modified version of the VGA Blinking Lights PBC by Danjovic:<br>
 https://github.com/Danjovic/VGA_Blinken<br>
 https://hackaday.io/project/8537-vga-blinking-lights<br>
 
